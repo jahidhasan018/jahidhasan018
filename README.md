@@ -6,7 +6,7 @@ I'm a passionate full stack web developer with a strong focus on WordPress, Elem
 - 🔭 I'm currently working on a few projects, including a WordPress plugin that simplifies the process of creating custom post types and taxonomies, and a React app that helps users manage their daily tasks more efficiently.
 - 🌱 I'm currently working on a few projects, including a WordPress plugin that simplifies the process of creating custom post types and taxonomies, and a React app that helps users manage their daily tasks more efficiently.
 - 👯‍ I'm always open to collaborating on interesting web development projects. If you have an idea or project you'd like to work on together, feel free to reach out to me!
-- 💬 Ask me about Wordpress,Woocommerce, Gutenburg, Elementor, Theme, Plugin, NodeJs, React
+- 💬 Ask me about Wordpress, Woocommerce, Gutenburg, Elementor, Theme, Plugin, NodeJs, React
 - 📫 How to reach me: WhatsApp: +8801790134333 - Email: wpdev018@gmail.com
 - 😄 When I'm not coding, I enjoy hiking in the great outdoors and exploring new places. I also love cooking and trying out new recipes in the kitchen
 
