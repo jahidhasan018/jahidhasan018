@@ -11,9 +11,10 @@ I'm a passionate full stack web developer with a strong focus on WordPress, Elem
 - 😄 When I'm not coding, I enjoy hiking in the great outdoors and exploring new places. I also love cooking and trying out new recipes in the kitchen
 
 ## Skills: 
-✅ WordPress / Woocommerce / Elementor <br/>
-✅ JavaScript / Node.js / Express.js / React / <br/>
+✅ WordPress / Woocommerce / Elementor / Membership System <br/>
+✅ JavaScript / Node.js / Express.js / React <br/>
 ✅ PHP / Laravel <br/>
+✅ MySQL / MongoDB <br/>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br/>
 ✅ Photoshop / Illustrator <br/>
 
