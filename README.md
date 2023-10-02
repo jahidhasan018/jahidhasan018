@@ -1,5 +1,5 @@
 ## Hi there, I'm Jahid 👋
-![A passionate full stack web developer](https://media.licdn.com/dms/image/D5616AQEUBZDKuIjA8g/profile-displaybackgroundimage-shrink_350_1400/0/1679231287492?e=1701907200&v=beta&t=R26YPI7E14HEsSkFabRST_qsnaHU7hG65JfzCgY0uok)
+![A passionate full stack web developer](http://jahiddev.com/wp-content/uploads/2023/10/Jahid-Hossain-Web-Developer.png)
 
 I'm a passionate full-stack web developer with a strong focus on WordPress, Elementor, PHP, Node.js, React, MySQL, MongoDB, JS, HTML, and CSS. I enjoy building scalable and responsive web applications that solve real-world problems.
 
