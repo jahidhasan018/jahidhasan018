@@ -1,12 +1,12 @@
 ## Hi there, I'm Jahid 👋
-![A passionate full stack web developer](https://media.licdn.com/dms/image/D5616AQEUBZDKuIjA8g/profile-displaybackgroundimage-shrink_350_1400/0/1679231287492?e=1686182400&v=beta&t=0VIkLkrH7nM9Wdqsxnxg82taBcSmQj4FB8r8Fxatt78)
+![A passionate full stack web developer](https://media.licdn.com/dms/image/D5616AQEUBZDKuIjA8g/profile-displaybackgroundimage-shrink_350_1400/0/1679231287492?e=1701907200&v=beta&t=R26YPI7E14HEsSkFabRST_qsnaHU7hG65JfzCgY0uok)
 
-I'm a passionate full stack web developer with a strong focus on WordPress, Elementor, PHP, Node.js, React, MySQL, MongoDB, JS, HTML, and CSS. I enjoy building scalable and responsive web applications that solve real-world problems.
+I'm a passionate full-stack web developer with a strong focus on WordPress, Elementor, PHP, Node.js, React, MySQL, MongoDB, JS, HTML, and CSS. I enjoy building scalable and responsive web applications that solve real-world problems.
 
 - 🔭 I'm currently working on a few projects, including a WordPress plugin that simplifies the process of creating custom post types and taxonomies, and a React app that helps users manage their daily tasks more efficiently.
 - 🌱 I'm always looking to expand my knowledge and skills, and right now I'm learning more about serverless architectures, GraphQL, and advanced React concepts like Redux and Context API.
 - 👯‍ I'm always open to collaborating on interesting web development projects. If you have an idea or project you'd like to work on together, feel free to reach out to me!
-- 💬 Ask me about Wordpress, Woocommerce, Gutenburg, Elementor, Theme, Plugin, NodeJs, React
+- 💬 Ask me about Wordpress, Woocommerce, Gutenberg, Elementor, Theme, Plugin, NodeJs, React
 - 📫 How to reach me: WhatsApp: +8801790134333 - Email: wpdev018@gmail.com
 - 😄 When I'm not coding, I enjoy hiking in the great outdoors and exploring new places. I also love cooking and trying out new recipes in the kitchen
 
