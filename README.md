@@ -3,7 +3,6 @@
 
 I'm a passionate full-stack web developer with a strong focus on WordPress, Elementor, PHP, Node.js, React, MySQL, MongoDB, JS, HTML, and CSS. I enjoy building scalable and responsive web applications that solve real-world problems.
 
-- 🔭 I'm currently working on a few projects, including a WordPress plugin that simplifies the process of creating custom post types and taxonomies, and a React app that helps users manage their daily tasks more efficiently.
 - 🌱 I'm always looking to expand my knowledge and skills, and right now I'm learning more about serverless architectures, GraphQL, and advanced React concepts like Redux and Context API.
 - 👯‍ I'm always open to collaborating on interesting web development projects. If you have an idea or project you'd like to work on together, feel free to reach out to me!
 - 💬 Ask me about Wordpress, Woocommerce, Gutenberg, Elementor, Theme, Plugin, NodeJs, React
