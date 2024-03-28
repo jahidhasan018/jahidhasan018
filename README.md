@@ -14,5 +14,5 @@ I'm a passionate full-stack web developer with a strong focus on WordPress, Elem
 ## ☕ Connect with me!
 <a href="https://www.facebook.com/jahidhasan018" rel="nofollow"><img src="https://jahiddev.com/images/facebook.png" alt="facebook" height="40" style="max-width: 100%;"></a> <a href="https://www.instagram.com/jahidhasan018/" rel="nofollow"><img src="https://jahiddev.com/images/instagram.png" alt="instagram" height="40" style="max-width: 100%;"> </a><a href="https://twitter.com/mr_jahid_007" rel="nofollow"><img src="https://jahiddev.com/images/x.png" alt="twitter" height="40" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/jahidhasan018/" rel="nofollow"><img src="https://jahiddev.com/images/linkedin.png" alt="linkedin" height="40" style="max-width: 100%;"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidhasan018&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidhasan018&show_icons=true&theme=transparent) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan018)](https://github.com/anuraghazra/github-readme-stats)
