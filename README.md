@@ -12,4 +12,19 @@ I'm a passionate full-stack web developer with a strong focus on WordPress, Elem
 ✅ Photoshop / Illustrator <br/>
 
 ## ☕ Connect with me!
-<a href="https://www.facebook.com/jahidhasan018" rel="nofollow"><img src="https://img.freepik.com/premium-psd/facebook-logo-blue-circle_705838-12823.jpg?semt=ais_incoming&w=40" alt="facebook" height="40" style="max-width: 100%;"></a> <a href="https://www.instagram.com/jahidhasan018/" rel="nofollow"><img src="https://static.vecteezy.com/system/resources/previews/042/387/654/non_2x/instagram-button-icon-set-instagram-screen-social-media-and-social-network-interface-template-stories-user-button-symbol-sign-logo-stories-liked-editorial-free-png.png" alt="instagram" height="40" style="max-width: 100%;"> </a><a href="https://twitter.com/mr_jahid_007" rel="nofollow"><img src="https://static.vecteezy.com/system/resources/previews/053/986/348/non_2x/x-twitter-icon-logo-symbol-free-png.png" alt="twitter" height="40" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/jahidhasan018/" rel="nofollow"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin" height="40" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/jahidhasan018" rel="nofollow">
+  <img src="https://img.freepik.com/premium-psd/facebook-logo-blue-circle_705838-12823.jpg?semt=ais_incoming&w=40" alt="facebook" width="40" height="40" style="max-width: 100%;">
+</a>
+
+<a href="https://www.instagram.com/jahidhasan018/" rel="nofollow">
+  <img src="https://static.vecteezy.com/system/resources/previews/042/387/654/non_2x/instagram-button-icon-set-instagram-screen-social-media-and-social-network-interface-template-stories-user-button-symbol-sign-logo-stories-liked-editorial-free-png.png" alt="instagram" width="40" height="40" style="max-width: 100%;"> 
+</a>
+
+<a href="https://twitter.com/mr_jahid_007" rel="nofollow">
+  <img src="https://static.vecteezy.com/system/resources/previews/053/986/348/non_2x/x-twitter-icon-logo-symbol-free-png.png" alt="twitter" width="40" height="40" style="max-width: 100%;">
+</a>
+
+<a href="https://www.linkedin.com/in/jahidhasan018/" rel="nofollow">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin" width="40" height="40" style="max-width: 100%;">
+</a>
+
